@@ -4,6 +4,7 @@
 # TEAM
 
     <name> Jordan Hildebrand Shayo - DevOps Engineer <twitter>
+	Ruaichi Senior 
 
 # THANKS
 
