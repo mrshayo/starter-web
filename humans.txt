@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Jordan Hildebrand Shayo - DevOps Engineer <twitter>
 
 # THANKS
 
