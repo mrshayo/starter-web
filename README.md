@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+Finish God mission.
+
 ##DevOps Guru
 Jordan Hildebrand Shayo -DevOps Engineer
 
